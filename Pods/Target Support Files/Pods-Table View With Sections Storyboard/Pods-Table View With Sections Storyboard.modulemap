@@ -1,0 +1,6 @@
+framework module Pods_Table_View_With_Sections_Storyboard {
+  umbrella header "Pods-Table View With Sections Storyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
